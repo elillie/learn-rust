@@ -1,4 +1,3 @@
-workspace = { members = ["adder"] }
 [package]
 name = "collections_challenges"
 version = "0.1.0"
